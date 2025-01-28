@@ -14,4 +14,9 @@ public class BasicOperations {
             return a * b;
         }
     }
+    public static class Division {
+        public int execute(int a, int b) {
+            return a / b;
+        }
+    }
 }
